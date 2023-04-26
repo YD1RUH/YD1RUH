@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YD1RUH
 - 👀 I’m interested in ham radio, linux, coffee, SDR, satellite (Telemetry or communication)
 - 🌱 I’m currently learning everything that interesting
-- 📫 How to reach me ? mail at ramadhan.ibrahim@gmail.com
+- 📫 How to reach me ? mail at yd1ruh@gmail.com
 
 <!---
 YD1RUH/YD1RUH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
