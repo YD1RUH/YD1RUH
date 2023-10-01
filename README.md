@@ -7,5 +7,3 @@
 YD1RUH/YD1RUH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![Download TokekOS-Beta_Version](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/tokekos-beta-version/files/latest/download) 
