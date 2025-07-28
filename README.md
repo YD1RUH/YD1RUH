@@ -21,7 +21,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/YD1RUH" target="_blank">
+      <a href="https://github.com/YD1RUH?tab=repositories" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
       </a>
     </td>
