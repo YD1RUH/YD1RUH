@@ -25,6 +25,18 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
 <a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="https://www.hamqsl.com/solar101vhfpic.php"></a>
 </center>
 
+<center>
+<a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="https://www.hamqsl.com/solarsystem.php"></a>
+</center>
+
+<center>
+<a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="https://www.hamqsl.com/solarmuf.php"></a>
+</center>
+
+<center>
+<a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="https://www.hamqsl.com/solargraph.php"></a>
+</center>
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YD1RUH&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=YD1RUH&theme=solarized-dark&hide_border=false)<br/>
