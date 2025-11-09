@@ -1,5 +1,5 @@
 <div style="width:100%; text-align:center;">
-  <img src="https://github.com/YD1RUH/myAward/blob/main/%252Fstorage%252Femulated%252F0%252FAndroid%252Fdata%252Fcom.miui.gallery%252Fcache%252FSecurityShare%252F1762698697104.JPG?raw=true" 
+  <img src="https://github.com/YD1RUH/myAward/blob/main/InShot_20251109_215618878.jpg?raw=true" 
        alt="GitHub Banner" 
        style="width:100%; max-width:1200px; height:auto; border-radius:10px;">
 </div>
