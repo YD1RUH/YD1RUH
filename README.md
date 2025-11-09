@@ -41,8 +41,6 @@
         <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi" alt="Raspberry Pi">
       </div>
     </td>
-
-    <!-- Kolom 2: GitHub Stats -->
     <td style="padding:10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YD1RUH&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
     </td>
