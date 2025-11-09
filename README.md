@@ -17,9 +17,24 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
 * 👥  I'm looking to collaborate on field Radio Experiment or Expedition
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/octacons)
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yd1ruh) 
+<table border="1" cellpadding="6" cellspacing="2" style="width:100%; text-align:center;">
+  <tr>
+    <td>
+      <a href="https://x.com/octacons" title="Follow on X">
+        <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
+      </a>
+    </td>
+    <td>Twitter / X</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://youtube.com/@yd1ruh" title="Visit YouTube Channel">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
+      </a>
+    </td>
+    <td>YouTube</td>
+  </tr>
+</table>
 
 <table border="1" cellpadding="4" cellspacing="2" style="width:100%; text-align:center;">
   <tr>
@@ -95,7 +110,7 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
   <img src="https://github.com/YD1RUH/myAward/blob/main/ARRL_Intro_Emm_Diss%20(1).jpg" width="32%">
 </p>
 
-## Wordldmap
+## Worldmap
 <a href="https://info.flagcounter.com/Kcvf"><img src="https://s01.flagcounter.com/map/Kcvf/size_l/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
 ## 💰 You can help me by Donating
