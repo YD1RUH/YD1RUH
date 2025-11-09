@@ -31,11 +31,8 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=YD1RUH&limit=5&theme=solarized-dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=YD1RUH&icon=0&color=3)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/YD1RUH) 
+### 💰 You can help me by Donating
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/YD1RUH) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
