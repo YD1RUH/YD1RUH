@@ -20,25 +20,25 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
 * 🧠  I'm currently learning SDR, Programming, Hardware, Software
 * 👥  I'm looking to collaborate on field Radio Experiment or Expedition
 
-<table style="width:100%; text-align:center; border-collapse:collapse;">
+<table width="100%">
   <tr>
-    <td style="width:50%; padding:8px; vertical-align:middle; font-weight:bold;">
-      Receive NOAA Satellite
+    <td align="center" width="50%">
+      <strong>Receive NOAA Satellite</strong>
     </td>
-    <td style="width:50%; padding:8px; vertical-align:middle; font-weight:bold;">
-      Operation with FalconSAT-3
+    <td align="center" width="50%">
+      <strong>Operation with FalconSAT-3</strong>
     </td>
   </tr>
   <tr>
-    <td style="width:50%; padding:8px; vertical-align:middle;">
+    <td align="center" width="50%">
       <img src="https://github.com/YD1RUH/myAward/blob/main/1762693922531.gif?raw=true" 
            alt="Receive NOAA Satellite" 
-           style="width:100%; max-width:480px; border-radius:8px;"/>
+           width="100%"/>
     </td>
-    <td style="width:50%; padding:8px; vertical-align:middle;">
+    <td align="center" width="50%">
       <img src="https://github.com/YD1RUH/myAward/blob/main/1762693922493.gif?raw=true" 
            alt="Operation with FalconSAT-3" 
-           style="width:100%; max-width:480px; border-radius:8px;"/>
+           width="100%"/>
     </td>
   </tr>
 </table>
@@ -64,72 +64,91 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
 </table>
 
 
-<table border="1" cellpadding="4" cellspacing="2" style="width:100%; text-align:center;">
+<table style="width:100%; text-align:center; border-collapse:collapse;">
   <tr>
-    <td colspan="2">
+    <td colspan="2" style="padding:8px;">
       <a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!">
-        <img src="https://www.hamqsl.com/solar101vhfpic.php" alt="Solar VHF Data">
+        <img src="https://www.hamqsl.com/solar101vhfpic.php" alt="Solar VHF Data" style="width:100%; max-width:600px; height:auto; border-radius:8px;">
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="width:50%; padding:8px;">
       <a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!">
-        <img src="https://www.hamqsl.com/solarsystem.php" alt="Solar System Data">
+        <img src="https://www.hamqsl.com/solarsystem.php" alt="Solar System Data" style="width:100%; max-width:480px; height:auto; border-radius:8px;">
       </a>
     </td>
-    <td>
+    <td style="width:50%; padding:8px;">
       <a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!">
-        <img src="https://www.hamqsl.com/solargraph.php" alt="Solar Graph">
+        <img src="https://www.hamqsl.com/solargraph.php" alt="Solar Graph" style="width:100%; max-width:480px; height:auto; border-radius:8px;">
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="width:50%; padding:8px;">
       <a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!">
-        <img src="https://www.hamqsl.com/solarmuf.php" alt="Solar MUF">
+        <img src="https://www.hamqsl.com/solarmuf.php" alt="Solar MUF" style="width:100%; max-width:480px; height:auto; border-radius:8px;">
       </a>
     </td>
-    <td>
+    <td style="width:50%; padding:8px;">
       <a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!">
-        <img src="https://www.hamqsl.com/solarglobe.php" alt="Solar Globe">
+        <img src="https://www.hamqsl.com/solarglobe.php" alt="Solar Globe" style="width:100%; max-width:480px; height:auto; border-radius:8px;">
       </a>
     </td>
   </tr>
 </table>
 
+
+## 📸 Gallery
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/YD1RUH/myAward/blob/main/1762698220887.JPG?raw=true" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/YD1RUH/myAward/blob/main/1762698446440.jpg?raw=true" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/YD1RUH/myAward/blob/main/1762702292572.jpg?raw=true" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/YD1RUH/myAward/blob/main/1762702725971.jpg?raw=true" width="100%"/>
+    </td>
+  </tr>
+</table>
+
 ## 🏆 AWARD
-<p align="center">
-  <img src="https://www.qrz.com/hampages/yd1ruh/App_Image_2021_02_09_at_10_13_09.jpeg" width="32%">
-  <img src="https://github.com/YD1RUH/myAward/blob/main/CQ_WW%20(1).jpg" width="32%">
-  <img src="https://github.com/YD1RUH/myAward/blob/main/RS0ISS_3%20(1).png" width="32%">
-</p>
+<table align="center" style="border-collapse:collapse; text-align:center;">
+  <tr>
+    <td><img src="https://www.qrz.com/hampages/yd1ruh/App_Image_2021_02_09_at_10_13_09.jpeg" height="240"></td>
+    <td><img src="https://github.com/YD1RUH/myAward/blob/main/CQ_WW%20(1).jpg?raw=true" height="240"></td>
+    <td><img src="https://github.com/YD1RUH/myAward/blob/main/RS0ISS_3%20(1).png?raw=true" height="240"></td>
+  </tr>
+  <tr>
+    <td><img src="https://www.qrz.com/hampages/yd1ruh/App_Image_2020_12_28_at_02_28_38.jpeg" height="240"></td>
+    <td><img src="https://www.qrz.com/hampages/yd1ruh/1647188987801.png" height="240"></td>
+    <td><img src="https://www.qrz.com/hampages/yd1ruh/1647189008671.png" height="240"></td>
+  </tr>
+  <tr>
+    <td><img src="https://www.qrz.com/hampages/yd1ruh/1659971685333.png" height="240"></td>
+    <td><img src="https://www.qrz.com/hampages/yd1ruh/App_Image_2020_12_28_at_22_11_27.jpeg" height="240"></td>
+    <td><img src="https://www.qrz.com/hampages/yd1ruh/1647188914161.png" height="240"></td>
+  </tr>
+  <tr>
+    <td><img src="https://www.qrz.com/hampages/yd1ruh/1647189169818.png" height="240"></td>
+    <td><img src="https://www.qrz.com/hampages/yd1ruh/1647189192556.png" height="240"></td>
+    <td><img src="https://www.qrz.com/hampages/yd1ruh/_cfimg513470776596610968.png" height="240"></td>
+  </tr>
+  <tr>
+    <td><img src="https://www.qrz.com/hampages/yd1ruh/_Image_2021_02_09_at_10_12_41_3_.jpeg" height="240"></td>
+    <td><img src="https://github.com/YD1RUH/myAward/blob/main/ARRL_Emm_Comm%20(1).jpg?raw=true" height="240"></td>
+    <td><img src="https://github.com/YD1RUH/myAward/blob/main/ARRL_Intro_Emm_Diss%20(1).jpg?raw=true" height="240"></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://www.qrz.com/hampages/yd1ruh/App_Image_2020_12_28_at_02_28_38.jpeg" width="32%">
-  <img src="https://www.qrz.com/hampages/yd1ruh/1647188987801.png" width="32%">
-  <img src="https://www.qrz.com/hampages/yd1ruh/1647189008671.png" width="32%">
-</p>
-
-<p align="center">
-  <img src="https://www.qrz.com/hampages/yd1ruh/1659971685333.png" width="32%">
-  <img src="https://www.qrz.com/hampages/yd1ruh/App_Image_2020_12_28_at_22_11_27.jpeg" width="32%">
-  <img src="https://www.qrz.com/hampages/yd1ruh/1647188914161.png" width="32%">
-</p>
-
-<p align="center">
-  <img src="https://www.qrz.com/hampages/yd1ruh/1647189169818.png" width="32%">
-  <img src="https://www.qrz.com/hampages/yd1ruh/1647189192556.png" width="32%">
-  <img src="https://www.qrz.com/hampages/yd1ruh/_cfimg513470776596610968.png" width="32%">
-</p>
-
-<p align="center">
-  <img src="https://www.qrz.com/hampages/yd1ruh/_Image_2021_02_09_at_10_12_41_3_.jpeg" width="32%">
-  <img src="https://github.com/YD1RUH/myAward/blob/main/ARRL_Emm_Comm%20(1).jpg" width="32%">
-  <img src="https://github.com/YD1RUH/myAward/blob/main/ARRL_Intro_Emm_Diss%20(1).jpg" width="32%">
-</p>
-
-## Worldmap
+## 🌏 Worldmap
 <a href="https://info.flagcounter.com/PJxn"><img src="https://s01.flagcounter.com/count2/PJxn/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_20/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 <a href="https://info.flagcounter.com/Kcvf"><img src="https://s01.flagcounter.com/map/Kcvf/size_l/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
