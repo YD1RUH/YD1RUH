@@ -21,25 +21,40 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yd1ruh) 
 
-<center>
-<a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="https://www.hamqsl.com/solar101vhfpic.php"></a>
-</center>
+<table border="1" cellpadding="4" cellspacing="2" style="width:100%; text-align:center;">
+  <tr>
+    <td colspan="2">
+      <a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!">
+        <img src="https://www.hamqsl.com/solar101vhfpic.php" alt="Solar VHF Data">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!">
+        <img src="https://www.hamqsl.com/solarsystem.php" alt="Solar System Data">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!">
+        <img src="https://www.hamqsl.com/solargraph.php" alt="Solar Graph">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!">
+        <img src="https://www.hamqsl.com/solarmuf.php" alt="Solar MUF">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!">
+        <img src="https://www.hamqsl.com/solarglobe.php" alt="Solar Globe">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<center>
-<a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="https://www.hamqsl.com/solarsystem.php"></a>
-</center>
-
-<center>
-<a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="https://www.hamqsl.com/solargraph.php"></a>
-</center>
-
-<center>
-<a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="https://www.hamqsl.com/solarmuf.php"></a>
-</center>
-
-<center>
-<a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="https://www.hamqsl.com/solarglobe.php"></a>
-</center>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YD1RUH&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
