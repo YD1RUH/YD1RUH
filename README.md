@@ -18,6 +18,29 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
 * 🧠  I'm currently learning SDR, Programming, Hardware, Software
 * 👥  I'm looking to collaborate on field Radio Experiment or Expedition
 
+<table style="width:100%; text-align:center; border-collapse:collapse;">
+  <tr>
+    <td style="width:50%; padding:8px; vertical-align:middle; font-weight:bold;">
+      Decode NOAA Satellite using SDR
+    </td>
+    <td style="width:50%; padding:8px; vertical-align:middle; font-weight:bold;">
+      Operation with FalconSAT-3
+    </td>
+  </tr>
+  <tr>
+    <td style="width:50%; padding:8px; vertical-align:middle;">
+      <img src="https://github.com/YD1RUH/myAward/blob/main/1762693922531.gif?raw=true" 
+           alt="Decode NOAA Satellite using SDR" 
+           style="width:100%; max-width:480px; border-radius:8px;"/>
+    </td>
+    <td style="width:50%; padding:8px; vertical-align:middle;">
+      <img src="https://github.com/YD1RUH/myAward/blob/main/1762693922493.gif?raw=true" 
+           alt="Operation with FalconSAT-3" 
+           style="width:100%; max-width:480px; border-radius:8px;"/>
+    </td>
+  </tr>
+</table>
+
 ## 🌐 Socials:
 <table border="1" cellpadding="6" cellspacing="2" style="margin:auto; text-align:center; border-collapse:collapse;">
   <tr>
