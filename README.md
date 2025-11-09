@@ -126,7 +126,7 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
 <a href="https://info.flagcounter.com/PJxn"><img src="https://s01.flagcounter.com/count2/PJxn/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_20/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 <a href="https://info.flagcounter.com/Kcvf"><img src="https://s01.flagcounter.com/map/Kcvf/size_l/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-## 💰 You can help me by Donating
+## 💰 You can support me by Donating
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/YD1RUH)
 
 <!---
