@@ -18,7 +18,6 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
 
 <table border="0" cellpadding="10" cellspacing="0" style="width:100%; text-align:left; border-collapse:collapse;">
   <tr>
-    <!-- Kolom 1 -->
     <td style="width:50%; vertical-align:top;">
       <p>
         Wizard & Programmer. Interested in telecommunication, especially in RF.  
@@ -34,8 +33,6 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
         <li>👥 I'm looking to collaborate on field Radio Experiment or Expedition</li>
       </ul>
     </td>
-
-    <!-- Kolom 2 -->
     <td style="width:50%; text-align:center; vertical-align:top;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YD1RUH&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="max-width:100%; height:auto;">
     </td>
