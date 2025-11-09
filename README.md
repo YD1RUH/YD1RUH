@@ -25,7 +25,7 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
   <tr>
     <td style="width:50%; padding:8px; vertical-align:middle;">
       <img src="https://github.com/YD1RUH/myAward/blob/main/1762693922531.gif?raw=true" 
-           alt="Decode NOAA Satellite using SDR" 
+           alt="Receive NOAA Satellite" 
            style="width:100%; max-width:480px; border-radius:8px;"/>
     </td>
     <td style="width:50%; padding:8px; vertical-align:middle;">
