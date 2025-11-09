@@ -17,7 +17,9 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
 * 👥  I'm looking to collaborate on field Radio Experiment or Expedition
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/octacons) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@yd1ruh) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/octacons)
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yd1ruh) 
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YD1RUH&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
