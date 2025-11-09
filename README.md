@@ -73,14 +73,9 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YD1RUH&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YD1RUH&theme=solarized-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YD1RUH&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YD1RUH&limit=5&theme=solarized-dark&combine_all_yearly_contributions=true) 
-
-## AWARD
+## 🏆 AWARD
 <p align="center">
   <img src="https://www.qrz.com/hampages/yd1ruh/App_Image_2021_02_09_at_10_13_09.jpeg" width="32%">
   <img src="https://github.com/YD1RUH/myAward/blob/main/CQ_WW%20(1).jpg" width="32%">
