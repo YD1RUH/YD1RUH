@@ -55,8 +55,8 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
 		</tr>
 		<tr>
 			<td><img src="https://www.qrz.com/hampages/yd1ruh/_Image_2021_02_09_at_10_12_41_3_.jpeg" style="height:248px; width:350px" /></td>
-			<td><img src="https://www.qrz.com/hampages/yd1ruh/App_Image_2021_02_20_at_20_09_25.jpeg" style="height:263px; width:350px" /></td>
-			<td><img src="https://www.qrz.com/hampages/yd1ruh/App_Image_2021_01_19_at_11_46_26.jpeg" style="height:263px; width:350px" /></td>
+			<td><img src="https://github.com/YD1RUH/myAward/blob/main/ARRL_Emm_Comm%20(1).jpg" style="height:263px; width:350px" /></td>
+			<td><img src="https://github.com/YD1RUH/myAward/blob/main/ARRL_Intro_Emm_Diss%20(1).jpg" style="height:263px; width:350px" /></td>
 		</tr>
 	</tbody>
 </table>
