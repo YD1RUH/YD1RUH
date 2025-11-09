@@ -12,7 +12,7 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [yd1ruh@gmail.com](mailto:yd1ruh@gmail.com)
 * 🧠  I'm currently learning SDR, Programming, Hardware, Software
-* 👥  I'm looking to collaborate on On field Radio Experiment or Expedition
+* 👥  I'm looking to collaborate on field Radio Experiment or Expedition
 
 
 ## 🌐 Socials:
