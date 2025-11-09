@@ -25,10 +25,7 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YD1RUH&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YD1RUH&limit=5&theme=solarized-dark&combine_all_yearly_contributions=true)
-
-## 💰 You can help me by Donating
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/YD1RUH) 
+![](https://github-contributor-stats.vercel.app/api?username=YD1RUH&limit=5&theme=solarized-dark&combine_all_yearly_contributions=true) 
 
 ## AWARD
 <p align="center">
@@ -61,9 +58,11 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
   <img src="https://github.com/YD1RUH/myAward/blob/main/ARRL_Intro_Emm_Diss%20(1).jpg" width="32%">
 </p>
 
-
 ## Wordldmap
 <a href="https://info.flagcounter.com/Kcvf"><img src="https://s01.flagcounter.com/map/Kcvf/size_l/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+
+## 💰 You can help me by Donating
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/YD1RUH)
 
 <!---
 YD1RUH/YD1RUH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
