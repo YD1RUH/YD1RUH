@@ -16,7 +16,7 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
 <table style="width:100%; text-align:center; border-collapse:collapse;">
   <tr>
     <td style="width:50%; padding:8px; vertical-align:middle; font-weight:bold;">
-      Decode NOAA Satellite using SDR
+      Receive NOAA Satellite
     </td>
     <td style="width:50%; padding:8px; vertical-align:middle; font-weight:bold;">
       Operation with FalconSAT-3
