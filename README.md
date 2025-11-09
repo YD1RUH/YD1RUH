@@ -45,24 +45,23 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
 
 ## 🌐 Socials:
 <table border="1" cellpadding="6" cellspacing="2" style="margin:auto; text-align:center; border-collapse:collapse;">
+  <tr style="font-weight:bold; background-color:#f8f8f8;">
+    <td style="width:50%;">Twitter / X</td>
+    <td style="width:50%;">YouTube</td>
+  </tr>
   <tr>
     <td>
       <a href="https://x.com/octacons" title="Follow on X">
-        <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
+        <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" style="width:150px; height:auto;">
       </a>
     </td>
-    <td style="white-space:nowrap;">Twitter / X</td>
-  </tr>
-  <tr>
     <td>
       <a href="https://youtube.com/@yd1ruh" title="Visit YouTube Channel">
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" style="width:150px; height:auto;">
       </a>
     </td>
-    <td style="white-space:nowrap;">YouTube</td>
   </tr>
 </table>
-
 
 <table style="width:100%; text-align:center; border-collapse:collapse;">
   <tr>
