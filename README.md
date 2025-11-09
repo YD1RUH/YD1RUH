@@ -29,7 +29,7 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
            style="width:100%; max-width:480px; border-radius:8px;"/>
     </td>
     <td style="width:50%; padding:8px; vertical-align:middle;">
-      <img src="https://github.com/YD1RUH/myAward/blob/main/InShot_20251109_203838743.gif?raw=true" 
+      <img src="https://github.com/YD1RUH/myAward/blob/main/1762693922493.gif?raw=true" 
            alt="Operation with FalconSAT-3" 
            style="width:100%; max-width:480px; border-radius:8px;"/>
     </td>
