@@ -30,6 +30,37 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
 ## 💰 You can help me by Donating
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/YD1RUH) 
 
+## AWARD
+<table border="1" cellpadding="1" cellspacing="1" style="width:500px">
+	<tbody>
+		<tr>
+			<td><img src="qrz.com/hampages/yd1ruh/App_Image_2021_02_09_at_10_13_09.jpeg" style="height:248px; width:350px" /></td>
+			<td><img src="qrz.com/hampages/yd1ruh/App_Image_2020_12_29_at_03_07_31.jpeg" style="height:233px; width:350px" /></td>
+			<td><img src="qrz.com/hampages/yd1ruh/SSTV.PNG" style="height:247px; width:350px" /></td>
+		</tr>
+		<tr>
+			<td><img src="/hampages/yd1ruh/App_Image_2020_12_28_at_02_28_38.jpeg" style="height:495px; width:350px" /></td>
+			<td><img src="/hampages/yd1ruh/1647188987801.png" style="height:495px; width:350px" /></td>
+			<td><img src="/hampages/yd1ruh/1647189008671.png" style="height:495px; width:350px" /></td>
+		</tr>
+		<tr>
+			<td><img src="/hampages/yd1ruh/1659971685333.png" style="height:263px; width:350px" /></td>
+			<td><img src="/hampages/yd1ruh/App_Image_2020_12_28_at_22_11_27.jpeg" style="height:248px; width:350px" /></td>
+			<td><img src="/hampages/yd1ruh/1647188914161.png" style="height:248px; width:350px" /></td>
+		</tr>
+		<tr>
+			<td><img src="/hampages/yd1ruh/1647189169818.png" style="height:273px; width:350px" /></td>
+			<td><img src="/hampages/yd1ruh/1647189192556.png" style="height:273px; width:350px" /></td>
+			<td><img src="/hampages/yd1ruh/_cfimg513470776596610968.png" style="height:273px; width:350px" /></td>
+		</tr>
+		<tr>
+			<td><img src="/hampages/yd1ruh/_Image_2021_02_09_at_10_12_41_3_.jpeg" style="height:248px; width:350px" /></td>
+			<td><img src="/hampages/yd1ruh/App_Image_2021_02_20_at_20_09_25.jpeg" style="height:263px; width:350px" /></td>
+			<td><img src="/hampages/yd1ruh/App_Image_2021_01_19_at_11_46_26.jpeg" style="height:263px; width:350px" /></td>
+		</tr>
+	</tbody>
+</table>
+
 ## Wordldmap
 <a href="https://info.flagcounter.com/Kcvf"><img src="https://s01.flagcounter.com/map/Kcvf/size_l/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
