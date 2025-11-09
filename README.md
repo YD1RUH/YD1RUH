@@ -31,35 +31,36 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/YD1RUH) 
 
 ## AWARD
-<table border="1" cellpadding="1" cellspacing="1" style="width:500px">
-	<tbody>
-		<tr>
-			<td><img src="https://www.qrz.com/hampages/yd1ruh/App_Image_2021_02_09_at_10_13_09.jpeg" style="height:248px; width:350px" /></td>
-			<td><img src="https://github.com/YD1RUH/myAward/blob/main/CQ_WW%20(1).jpg" style="height:233px; width:350px" /></td>
-			<td><img src="https://github.com/YD1RUH/myAward/blob/main/RS0ISS_3%20(1).png" style="height:247px; width:350px" /></td>
-		</tr>
-		<tr>
-			<td><img src="https://www.qrz.com/hampages/yd1ruh/App_Image_2020_12_28_at_02_28_38.jpeg" style="height:495px; width:350px" /></td>
-			<td><img src="https://www.qrz.com/hampages/yd1ruh/1647188987801.png" style="height:495px; width:350px" /></td>
-			<td><img src="https://www.qrz.com/hampages/yd1ruh/1647189008671.png" style="height:495px; width:350px" /></td>
-		</tr>
-		<tr>
-			<td><img src="https://www.qrz.com/hampages/yd1ruh/1659971685333.png" style="height:263px; width:350px" /></td>
-			<td><img src="https://www.qrz.com/hampages/yd1ruh/App_Image_2020_12_28_at_22_11_27.jpeg" style="height:248px; width:350px" /></td>
-			<td><img src="https://www.qrz.com/hampages/yd1ruh/1647188914161.png" style="height:248px; width:350px" /></td>
-		</tr>
-		<tr>
-			<td><img src="https://www.qrz.com/hampages/yd1ruh/1647189169818.png" style="height:273px; width:350px" /></td>
-			<td><img src="https://www.qrz.com/hampages/yd1ruh/1647189192556.png" style="height:273px; width:350px" /></td>
-			<td><img src="https://www.qrz.com/hampages/yd1ruh/_cfimg513470776596610968.png" style="height:273px; width:350px" /></td>
-		</tr>
-		<tr>
-			<td><img src="https://www.qrz.com/hampages/yd1ruh/_Image_2021_02_09_at_10_12_41_3_.jpeg" style="height:248px; width:350px" /></td>
-			<td><img src="https://github.com/YD1RUH/myAward/blob/main/ARRL_Emm_Comm%20(1).jpg" style="height:263px; width:350px" /></td>
-			<td><img src="https://github.com/YD1RUH/myAward/blob/main/ARRL_Intro_Emm_Diss%20(1).jpg" style="height:263px; width:350px" /></td>
-		</tr>
-	</tbody>
-</table>
+<p align="center">
+  <img src="https://www.qrz.com/hampages/yd1ruh/App_Image_2021_02_09_at_10_13_09.jpeg" width="32%">
+  <img src="https://github.com/YD1RUH/myAward/blob/main/CQ_WW%20(1).jpg" width="32%">
+  <img src="https://github.com/YD1RUH/myAward/blob/main/RS0ISS_3%20(1).png" width="32%">
+</p>
+
+<p align="center">
+  <img src="https://www.qrz.com/hampages/yd1ruh/App_Image_2020_12_28_at_02_28_38.jpeg" width="32%">
+  <img src="https://www.qrz.com/hampages/yd1ruh/1647188987801.png" width="32%">
+  <img src="https://www.qrz.com/hampages/yd1ruh/1647189008671.png" width="32%">
+</p>
+
+<p align="center">
+  <img src="https://www.qrz.com/hampages/yd1ruh/1659971685333.png" width="32%">
+  <img src="https://www.qrz.com/hampages/yd1ruh/App_Image_2020_12_28_at_22_11_27.jpeg" width="32%">
+  <img src="https://www.qrz.com/hampages/yd1ruh/1647188914161.png" width="32%">
+</p>
+
+<p align="center">
+  <img src="https://www.qrz.com/hampages/yd1ruh/1647189169818.png" width="32%">
+  <img src="https://www.qrz.com/hampages/yd1ruh/1647189192556.png" width="32%">
+  <img src="https://www.qrz.com/hampages/yd1ruh/_cfimg513470776596610968.png" width="32%">
+</p>
+
+<p align="center">
+  <img src="https://www.qrz.com/hampages/yd1ruh/_Image_2021_02_09_at_10_12_41_3_.jpeg" width="32%">
+  <img src="https://github.com/YD1RUH/myAward/blob/main/ARRL_Emm_Comm%20(1).jpg" width="32%">
+  <img src="https://github.com/YD1RUH/myAward/blob/main/ARRL_Intro_Emm_Diss%20(1).jpg" width="32%">
+</p>
+
 
 ## Wordldmap
 <a href="https://info.flagcounter.com/Kcvf"><img src="https://s01.flagcounter.com/map/Kcvf/size_l/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
