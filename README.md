@@ -6,6 +6,8 @@
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=plastic&logo=javafx&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=plastic&logo=node-red&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YD1RUH&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 Radio, Linux, Coding, Coffee
 ----------------------------
 
@@ -15,29 +17,6 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
 * ✉️  You can contact me at [yd1ruh@gmail.com](mailto:yd1ruh@gmail.com)
 * 🧠  I'm currently learning SDR, Programming, Hardware, Software
 * 👥  I'm looking to collaborate on field Radio Experiment or Expedition
-
-<table border="0" cellpadding="10" cellspacing="0" style="width:100%; text-align:left; border-collapse:collapse;">
-  <tr>
-    <td style="width:50%; vertical-align:top;">
-      <p>
-        Wizard & Programmer. Interested in telecommunication, especially in RF.  
-        My hobby is Programming, Software Defined Radio (SDR), Satellite Communication,  
-        Decoding Telemetry Satellite, Radio Terrestrial Communication,  
-        Digital Mode & Packet Data Radio, Emergency Communications.  
-        73, de YD1RUH OI33it
-      </p>
-      <ul>
-        <li>🌍 I'm based in Indonesia</li>
-        <li>✉️ You can contact me at <a href="mailto:yd1ruh@gmail.com">yd1ruh@gmail.com</a></li>
-        <li>🧠 I'm currently learning SDR, Programming, Hardware, Software</li>
-        <li>👥 I'm looking to collaborate on field Radio Experiment or Expedition</li>
-      </ul>
-    </td>
-    <td style="width:50%; text-align:center; vertical-align:top;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YD1RUH&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="max-width:100%; height:auto;">
-    </td>
-  </tr>
-</table>
 
 ## 🌐 Socials:
 <table border="1" cellpadding="6" cellspacing="2" style="margin:auto; text-align:center; border-collapse:collapse;">
@@ -93,10 +72,6 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
     </td>
   </tr>
 </table>
-
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YD1RUH&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 AWARD
 <p align="center">
