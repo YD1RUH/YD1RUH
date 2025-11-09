@@ -17,14 +17,14 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
 * 👥  I'm looking to collaborate on field Radio Experiment or Expedition
 
 ## 🌐 Socials:
-<table border="1" cellpadding="6" cellspacing="2" style="width:100%; text-align:center;">
+<table border="1" cellpadding="6" cellspacing="2" style="margin:auto; text-align:center; border-collapse:collapse;">
   <tr>
     <td>
       <a href="https://x.com/octacons" title="Follow on X">
         <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
       </a>
     </td>
-    <td>Twitter / X</td>
+    <td style="white-space:nowrap;">Twitter / X</td>
   </tr>
   <tr>
     <td>
@@ -32,9 +32,10 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
         <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
       </a>
     </td>
-    <td>YouTube</td>
+    <td style="white-space:nowrap;">YouTube</td>
   </tr>
 </table>
+
 
 <table border="1" cellpadding="4" cellspacing="2" style="width:100%; text-align:center;">
   <tr>
