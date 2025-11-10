@@ -120,6 +120,14 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
       <img src="https://github.com/YD1RUH/myAward/blob/main/1762702725971.jpg?raw=true" width="100%"/>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/YD1RUH/myAward/blob/main/InShot_20251110_074141645.gif?raw=true" width="100%"/>
+      <div style="text-align:center; font-style:italic; margin-top:5px;">
+        200 Frame GK-2A LRIT Satellite Image, RX using RTL-SDR + Noelec GOES LNA
+      </div>
+    </td>
+  </tr>
 </table>
 
 ## 🏆 AWARD
