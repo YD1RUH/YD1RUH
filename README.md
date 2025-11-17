@@ -133,27 +133,26 @@ Wizard & Programmer. Interested in telecommunication, especially in RF. My hobby
 ## 🏆 AWARD
 <table align="center" style="border-collapse:collapse; text-align:center;">
   <tr>
-    <td><img src="https://www.qrz.com/hampages/yd1ruh/App_Image_2021_02_09_at_10_13_09.jpeg" height="240"></td>
+    <td><img src="https://github.com/YD1RUH/myAward/blob/main/LAPAN%20(1).jpeg?raw=true" height="240"></td>
     <td><img src="https://github.com/YD1RUH/myAward/blob/main/CQ_WW%20(1).jpg?raw=true" height="240"></td>
-    <td><img src="https://github.com/YD1RUH/myAward/blob/main/RS0ISS_3%20(1).png?raw=true" height="240"></td>
+    <td><img src="https://github.com/YD1RUH/myAward/blob/main/JAMSAT%20(1).jpg?raw=true" height="240"></td>
   </tr>
   <tr>
-    <td><img src="https://www.qrz.com/hampages/yd1ruh/App_Image_2020_12_28_at_02_28_38.jpeg" height="240"></td>
-    <td><img src="https://www.qrz.com/hampages/yd1ruh/1647188987801.png" height="240"></td>
-    <td><img src="https://www.qrz.com/hampages/yd1ruh/1647189008671.png" height="240"></td>
+    <td><img src="https://github.com/YD1RUH/myAward/blob/main/RS0ISS_3%20(1).png" height="240"></td>
+    <td><img src="https://github.com/YD1RUH/myAward/blob/main/ARISS_2025%20(1).png" height="240"></td>
+    <td><img src="https://github.com/YD1RUH/myAward/blob/main/ARISS_2024%20(1).jpg" height="240"></td>
   </tr>
   <tr>
-    <td><img src="https://www.qrz.com/hampages/yd1ruh/1659971685333.png" height="240"></td>
-    <td><img src="https://www.qrz.com/hampages/yd1ruh/App_Image_2020_12_28_at_22_11_27.jpeg" height="240"></td>
-    <td><img src="https://www.qrz.com/hampages/yd1ruh/1647188914161.png" height="240"></td>
+    <td><img src="https://github.com/YD1RUH/myAward/blob/main/eJAPAN%20(1).jpg" height="240"></td>
+    <td><img src="https://github.com/YD1RUH/myAward/blob/main/eSatellite%20(1).jpg" height="240"></td>
+    <td><img src="https://github.com/YD1RUH/myAward/blob/main/eqsl_DX.png" height="240"></td>
   </tr>
   <tr>
-    <td><img src="https://www.qrz.com/hampages/yd1ruh/1647189169818.png" height="240"></td>
-    <td><img src="https://www.qrz.com/hampages/yd1ruh/1647189192556.png" height="240"></td>
-    <td><img src="https://www.qrz.com/hampages/yd1ruh/_cfimg513470776596610968.png" height="240"></td>
+    <td><img src="https://github.com/YD1RUH/myAward/blob/main/NOAA%20(1).jpeg" height="240"></td>
+    <td><img src="https://github.com/YD1RUH/myAward/blob/main/RUSIA%20(1).jpeg" height="240"></td>
+    <td><img src="https://github.com/YD1RUH/myAward/blob/main/RS0ISS_2%20(1).jpg" height="240"></td>
   </tr>
   <tr>
-    <td><img src="https://www.qrz.com/hampages/yd1ruh/_Image_2021_02_09_at_10_12_41_3_.jpeg" height="240"></td>
     <td><img src="https://github.com/YD1RUH/myAward/blob/main/ARRL_Emm_Comm%20(1).jpg?raw=true" height="240"></td>
     <td><img src="https://github.com/YD1RUH/myAward/blob/main/ARRL_Intro_Emm_Diss%20(1).jpg?raw=true" height="240"></td>
   </tr>
